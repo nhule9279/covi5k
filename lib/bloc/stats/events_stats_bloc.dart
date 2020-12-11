@@ -1,0 +1,3 @@
+enum StatsEvents {
+  fetchStats,
+}
